@@ -84,8 +84,7 @@ function About() {
 }
 
 function Contact() {
-  let { topicId } = useParams();
-
+  
   return (
     <div>
       <h3>sa</h3>
